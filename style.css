@@ -133,9 +133,6 @@ button{
 }
 /*End styles for New Task */
 /*Start styles for Edit Task */
-.article__input_edit-more{
-display: none;
-}
 .article__item_edit > .article__input {
   display: inline-block;
   width: 224px;
